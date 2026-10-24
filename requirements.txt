@@ -1,0 +1,5 @@
+# AI Lab Report & Code Verification Agent Dependencies
+# Tested with Python 3.10+ / 3.14
+
+fpdf2>=2.8.0
+pillow>=10.0.0
